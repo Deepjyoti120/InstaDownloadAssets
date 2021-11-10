@@ -33,7 +33,7 @@ Data Safety- Update Date (30/10/2021)
 /--/--/-/-/-/-/-/-/-/-/-/-/-/-/-/-/---/--/-/-/-/-/-/-/-/
 
 
-codeCanyon:
+Codester:
 GetProfile Download Instagram Profile, Photos & Videos in HD - Flutter 2.5
 GetProfile Download Instagram Profile, Photos, IGTV & Reels Videos in HD - Flutter 2.5
 
